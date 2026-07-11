@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Chasehunt.
+- 👋 Hi, I’m Bobbadi Jaswanth Kumar
 - 👀 I’m interested in coding, technology, and open-source projects.
 🌱 I’m currently learning new programming languages and improving my coding skills.
 - 💞️ I’m looking to collaborate on open-source projects related to web development and machine learning.
